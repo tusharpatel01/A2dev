@@ -48,13 +48,13 @@ function Home() {
       {/* Header with Button and Contact Details */}
       <div className="absolute top-4 left-0 w-full flex items-center justify-between px-6">
         <button
-          className="bg-blue-500 text-white font-bold py-2 px-4 rounded-full z-50 hover:bg-blue-700 transition"
+          className="bg-blue-500 text-white font-bold py-2 px-4  rounded-full z-50 hover:bg-blue-700 transition"
           onClick={() => navigate("/register")}
         >
           Book a Demo <IoSendSharp className="inline ml-2" />
         </button>
 
-        <div className="flex gap-4 text-white text-lg items-center">
+        <div className="flex gap-3 text-white text-lg items-center">
           <FaPhoneAlt />
           <p>+91 80816 38914</p>
           <IoMailUnreadOutline />

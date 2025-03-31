@@ -14,17 +14,17 @@ import InputForm from "./components/InputForm.jsx";
 
 const videoData = [
   {
-    src: "/atoms.mp4",
+    src: "/girlreading.mp4",
     title: "All Your Information in One Place",
     subtitle: "Simplify Management with a Unified Data Platform.",
   },
   {
-    src: "/books.mp4",
+    src: "/stackboooks.mp4",
     title: "Access Anytime, Anywhere",
     subtitle: "Experience Cutting-Edge Solutions",
   },
   {
-    src: "/bookspage.mp4",
+    src: "/studentswalking.mp4",
     title: "Lower Costs, Higher Value",
     subtitle: "Offering Premium Features at a Fraction of the Price.",
   },
